@@ -14,7 +14,6 @@ function depsFonts() {
         .pipe(gulp.dest('build/assets/fonts'))
 }
 
-
 module.exports = {
     depsCSS,
     depsFonts
