@@ -1,0 +1,22 @@
+@import "base.css";
+
+#numberOne, #numberTwo {
+    padding: 10px;
+    font-size: 25px;
+    width: 100px;
+}
+
+#calculate {
+    margin-top: 20px;
+    padding: 10px;
+    font-size: 23px;
+    cursor: pointer;
+}
+
+#result {
+    width: 400px;
+    margin: auto;
+    border: 1px dashed #fff;
+    padding: 20px;
+    font-size: 16px;
+}
